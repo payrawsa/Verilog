@@ -1,0 +1,70 @@
+$date
+	Thu May  4 19:25:25 2017
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module prob535_tb $end
+$var wire 4 ! tout [3:0] $end
+$var reg 4 " tin [3:0] $end
+$scope module myCircuit $end
+$var wire 4 # in [3:0] $end
+$var reg 4 $ out [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b11 $
+b0 #
+b0 "
+b11 !
+$end
+#20
+b100 $
+b100 !
+b1 "
+b1 #
+#40
+b101 $
+b101 !
+b10 "
+b10 #
+#60
+b110 $
+b110 !
+b11 "
+b11 #
+#80
+b111 $
+b111 !
+b100 "
+b100 #
+#100
+b1000 $
+b1000 !
+b101 "
+b101 #
+#120
+b1001 $
+b1001 !
+b110 "
+b110 #
+#140
+b1010 $
+b1010 !
+b111 "
+b111 #
+#160
+b1011 $
+b1011 !
+b1000 "
+b1000 #
+#180
+b1100 $
+b1100 !
+b1001 "
+b1001 #
